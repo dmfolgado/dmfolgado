@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Scientist at [Fraunhofer AICOS](https://www.aicos.fraunhofer.pt/en/home.html). My research focuses on knowledge extraction from time series using signal processing, machine learning, and deep learning techniques. I am also a PhD Student in Biomedical Engineering at FCT NOVA in the topic of Explainable Artificial Intelligence applied in healthcare.
-
+I am a Senior Scientist at [Fraunhofer AICOS](https://www.aicos.fraunhofer.pt/en/home.html). My research interests include time series analysis, machine learning, explainable AI and human-AI collaboration.
 I am a Python and time series analysis enthusiast! 🔭 Check out my software projects:
 
 * [TSFEL](https://github.com/fraunhoferportugal/tsfel): An intuitive library to extract features from time series 
